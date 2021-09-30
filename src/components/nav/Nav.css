@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #000;
+    
+}
+.navbar a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 0px;
+    margin: 0px 20px;
+}
+.navbar a:hover{
+    background-color: bisque;
+    color: #000;
+}
